@@ -1,0 +1,35 @@
+body{
+    font-family: 'Ramaraja', serif;
+    background-color: deepskyblue;
+
+}
+.header_div{
+background-color:crimson;
+color:white;
+
+}
+.header_div p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    font-weight: bold ;
+    letter-spacing: 2px ;
+}
+.main_div button{
+   font-weight: bold;
+   width:130px;
+   letter-spacing:3px;
+   margin-top:30px;
+
+}
+#copyrightfooter{
+    position:fixed;
+    bottom:0;
+    color:bisque;
+    width:100%;
+    text-align:center;
+    background-color:crimson;
+    line-height:2;
+    font-size:18px;
+    text-shadow: 5px 5px 5px black;
+
+}
